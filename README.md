@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Having a good time on Github :)
+Name: Ara U
+
+School: Columbia College
+
+Background: Junior studying CS at CC. 
 
 <!--
 **au2232/au2232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
