@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Name: Ara U
+Name: A U
 
 School: Columbia College
 
